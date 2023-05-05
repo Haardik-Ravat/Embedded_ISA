@@ -1,4 +1,4 @@
-# Embedded Systems Project Report
+# Embedded Systems Project ``ESE2``
 
 ### Group Members
 
