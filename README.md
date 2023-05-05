@@ -22,3 +22,9 @@
 
 * `rtl` directory contains verilog code of the ARM ISA CPU.
 * `doc` directory contains the report. 
+
+ ## Execution Procedure
+Run the Xilinx Vivado Suite with the module and testbench files for each project. More instructions can be found at [here](https://www.xilinx.com/support/university.html#overview) or [The docs](https://docs.xilinx.com/r/en-US/ug895-vivado-system-level-design-entry/Working-with-Projects)
+* Run Vivado and select the above rtl directory as project
+* Run each processor code with vivado and make sure it's saved to the workspace
+* Run the simulation in the 'sim' folder to get the Simualtion results for each type of instruction and corresponding register values.
