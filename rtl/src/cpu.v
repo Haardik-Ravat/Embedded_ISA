@@ -4,8 +4,9 @@
 `include "controller.v"
 `include "memory.v"
 `include "ic.v"
-`include "alu.v"
-
+`include "alu/alu.v"
+`include "alu/control.v"
+`include "alu/mux.v"
 
 module ARM_CPU
 (
