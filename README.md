@@ -2,8 +2,8 @@
 
 ### Group Members
 
-Aaditya Baranwal (B20EE001)
-Haardik Ravat (B20EE021)
+> Aaditya Baranwal baranwal.1@iitj.ac.in ;  Github: [eternal-f1ame](https://github.com/aeternum) <br>
+> Haardik Ravat ravat.1@iitj.ac.in ; Github: [Haardik-Ravat](https://github.com/Haardik-Ravat)
 
 # Abstract
 
