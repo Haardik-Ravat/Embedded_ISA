@@ -7,7 +7,7 @@
 
 # Abstract
 
-* In this project, we developed a pipelined ARM-like processor in Verilog to execute a subset of instructions that included `ADD`, `SUB`, `MUL`, `MAC`, `LUDR`, `STUR`, `VADD`, `VSUB`, `VMUL`, `MOV`, `VMOV`, `VLD1`, `VST1`, `ADDS`, `SUBS`, `B`, `CBZ`, and `CBNZ`. 
+* In this project, we developed a pipelined ARM-like processor in Verilog to execute a subset of instructions that included `ADD`, `SUB`, `MUL`, `MAC`, `LUDR`, `STUR`, `VADD`, `VSUB`, `VMUL`, `MOV`, `VMOV`, `VLD1`, `VST1`, `B`, `CBZ`, and `CBNZ`. 
 
 * This project aimed to design and implement an ARM CPU for a custom(subset) instruction set architecture (ISA) based on the ARMv7 instruction set. The pipeline architecture included buffers and caches to optimize the execution of multiple instructions simultaneously. In addition to basic arithmetic instructions, the ISA included more complex instructions such as MAC (multiply and accumulate), LDUR (load unsigned register), VADD, VSUB, and VMUL (vector operations). The project also considered issues such as pipeline hazards and data memory management. Potential future scopes for the project include further optimization of pipeline stages and buffers/caches, incorporation of additional instructions and support for various data types, and potential optimization for machine learning applications.
 
