@@ -16,3 +16,9 @@
 * The processor was pipelined, allowing multiple instructions to run simultaneously. Buffers/caches were added between each stage of the processor's operation to facilitate this. This optimization reduced the amount of time it took to run each instruction.
 
 * We implemented an instruction memory consisting of 64 8-bit values for each index and a data memory consisting of 31 64-bit values to show that values could be accessed and stored via the CPU. The registers were initialized with values from 0-30, with register 31 defined and set to 0. The data memory was initialized with values starting from 0-3100, with each memory content being 100 more than the previous index, except index 12 and 13, which had contents 173 and 422, respectively.
+
+
+## Structure
+
+* `rtl` directory contains verilog code of the ARM ISA CPU.
+* `doc` directory contains the report. 
